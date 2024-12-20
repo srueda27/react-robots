@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-robots/static/css/main.57a2ba8a.css",
+    "main.js": "/react-robots/static/js/main.b6ee3078.js",
+    "static/js/488.6ab4a1ed.chunk.js": "/react-robots/static/js/488.6ab4a1ed.chunk.js",
+    "static/media/BlackFuture-gx1q3.otf": "/react-robots/static/media/BlackFuture-gx1q3.4b3eeddf761c78950ea4.otf",
+    "index.html": "/react-robots/index.html",
+    "main.57a2ba8a.css.map": "/react-robots/static/css/main.57a2ba8a.css.map",
+    "main.b6ee3078.js.map": "/react-robots/static/js/main.b6ee3078.js.map",
+    "488.6ab4a1ed.chunk.js.map": "/react-robots/static/js/488.6ab4a1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a2ba8a.css",
+    "static/js/main.b6ee3078.js"
+  ]
+}
