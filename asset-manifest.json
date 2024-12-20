@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/srueda27/react-robots/static/css/main.8096881a.css",
+    "main.js": "/srueda27/react-robots/static/js/main.47a38c8f.js",
+    "static/js/488.6ab4a1ed.chunk.js": "/srueda27/react-robots/static/js/488.6ab4a1ed.chunk.js",
+    "static/media/BlackFuture-gx1q3.otf": "/srueda27/react-robots/static/media/BlackFuture-gx1q3.4b3eeddf761c78950ea4.otf",
+    "index.html": "/srueda27/react-robots/index.html",
+    "main.8096881a.css.map": "/srueda27/react-robots/static/css/main.8096881a.css.map",
+    "main.47a38c8f.js.map": "/srueda27/react-robots/static/js/main.47a38c8f.js.map",
+    "488.6ab4a1ed.chunk.js.map": "/srueda27/react-robots/static/js/488.6ab4a1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8096881a.css",
+    "static/js/main.47a38c8f.js"
+  ]
+}
