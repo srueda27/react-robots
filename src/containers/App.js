@@ -4,20 +4,19 @@ import Searchbox from "../components/Searchbox";
 import Scroll from "../components/Scroll";
 import "./App.css";
 
-const App = () => {
+function App() {
   const [robots, setRobots] = useState([])
   const [searchfield, setSearchfield] = useState('')
 
   useEffect(() => {
     fetch("https://jsonplaceholder.typicode.com/users")
       .then((response) => response.json())
-    .then((users) => setRobots(users));
+      .then((users) => setRobots(users));
   }, [])
 
   const onSearchChange = (event) => {
     setSearchfield(event.target.value)
   };
-
 
   const filteredBots = robots.filter((bot) => bot.name
     .toLowerCase()
