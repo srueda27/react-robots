@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import Card from "../containers/Card";
+import Card from "./Card";
 
 const CardList = ({ robots }) => {
   return (
